@@ -1,0 +1,37 @@
+body{
+    margin: 100px;
+    color: #2b2839;
+    font-family:Verdana,Arial,sans-serif;
+
+
+}
+
+.card{
+    margin: 0px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 450px;  
+    text-align: center;
+    background: #ddebf8;
+    border-bottom: 10px solid #d8cefe; 
+
+ }
+
+.foto {
+ width: 130px;
+
+}
+
+.dotted{
+    border: 2px dotted black;
+}
+   
+
+
+
+
+    
+
+
+
